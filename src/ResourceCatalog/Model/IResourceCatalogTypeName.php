@@ -48,6 +48,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SJJXMXX'] => '社会事业领域中央预算内和省基建项目信息',
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => '天津企业法人公共信用综合评价结果',  
         IResourceCatalog::TYPE['QYYCMLXX'] => '企业异常名录信息',   
+
+        IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

@@ -47,7 +47,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['JDCWFXX'] => 'jdcwfxx',
         IResourceCatalog::TYPE['SJJXMXX'] => 'sjjxmxx',
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'tjqyfrggxyzhpjjg',  
-        IResourceCatalog::TYPE['QYYCMLXX'] => 'qyycmlxx',   
+        IResourceCatalog::TYPE['QYYCMLXX'] => 'qyycmlxx',
+        IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }
