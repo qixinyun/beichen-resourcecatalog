@@ -50,6 +50,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYYCMLXX'] => '企业异常名录信息',   
 
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
-        IResourceCatalog::TYPE['TEST'] => '演示资源目录'
+        IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
+IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+        //@position
     );
 }
