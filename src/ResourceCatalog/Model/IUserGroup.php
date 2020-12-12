@@ -31,6 +31,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SFJ' => 24,
         'ZFB' => 25,
         'QWXCB' => 26,
-        'XFBCZD' => 27
+        'XFBCZD' => 76
     );
 }
