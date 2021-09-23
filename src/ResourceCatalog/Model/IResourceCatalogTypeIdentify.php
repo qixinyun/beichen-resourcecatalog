@@ -46,13 +46,13 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['SJYXXS'] => 'SJYXXS',
         IResourceCatalog::TYPE['JDCWFXX'] => 'JDCWFXX',
         IResourceCatalog::TYPE['SJJXMXX'] => 'SJJXMXX',
-        IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'TJQYFRGGXYZHPJJG',  
-        IResourceCatalog::TYPE['QYYCMLXX'] => 'QYYCMLXX', 
-        
-        IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',  
+        IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'TJQYFRGGXYZHPJJG',
+        IResourceCatalog::TYPE['QYYCMLXX'] => 'QYYCMLXX',
+        IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
         IResourceCatalog::TYPE['TEST'] => 'TEST',
-IResourceCatalog::TYPE['XZJCXX'] => 'XZJCXX',
-IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
+        IResourceCatalog::TYPE['XZJCXX'] => 'XZJCXX',
+        IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
+        IResourceCatalog::TYPE['ZDJGQYMD'] => 'ZDJGQYMD',
         //@position
     );
 }
