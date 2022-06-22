@@ -49,10 +49,13 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'tjqyfrggxyzhpjjg',
         IResourceCatalog::TYPE['QYYCMLXX'] => 'qyycmlxx',
         IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
-        IResourceCatalog::TYPE['XZJCXX'] => 'xzjcxx',
-        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         IResourceCatalog::TYPE['ZDJGQYMD'] => 'zdjgqymd',
         IResourceCatalog::TYPE['TEST'] => 'test',
+        IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
+        IResourceCatalog::TYPE['XZJDJCXX'] => 'xzjdjcxx',
+        IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
+        IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
+        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         //@position
     );
 }
