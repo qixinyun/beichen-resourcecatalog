@@ -57,6 +57,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
         IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         IResourceCatalog::TYPE['T_HTLX_HTLXXX'] => 't_htlx_htlxxx',
+        IResourceCatalog::TYPE['XZJFXX'] => 'xzjfxx',
         //@position
     );
 }

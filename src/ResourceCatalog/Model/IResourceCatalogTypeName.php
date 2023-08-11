@@ -57,6 +57,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
         IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         IResourceCatalog::TYPE['T_HTLX_HTLXXX'] => '合同履行信息',
+        IResourceCatalog::TYPE['XZJFXX'] => '行政给付信息',
         //@position
     );
 }
