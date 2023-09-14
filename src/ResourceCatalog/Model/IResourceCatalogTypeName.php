@@ -10,7 +10,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['HRBXX'] => '好人榜信息',
         IResourceCatalog::TYPE['ZFCGDLJGXX'] => '政府采购代理机构信息',
-        IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
+        // IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
         IResourceCatalog::TYPE['QYDSXZCFXX'] => '企业税务行政处罚信息',
         IResourceCatalog::TYPE['YSCRJZJJJZGRDXX'] => '因私出入境中介机构资格认定信息（境外就业、留学除外）',
         IResourceCatalog::TYPE['SFJDJGCYRYZGXX'] => '司法鉴定机构从业人员资格信息',
@@ -24,7 +24,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['MBFQYML'] => '民办非企业名录',
         IResourceCatalog::TYPE['SHTTDJXX'] => '社会团体登记信息',
         IResourceCatalog::TYPE['SXBZXJGXX'] => '失信被执行机构信息',
-        IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
+        // IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
         IResourceCatalog::TYPE['YZTQSBXXHMD'] => '严重拖欠社保信息黑名单',
         IResourceCatalog::TYPE['JGRYXX'] => '机构荣誉信息',
         IResourceCatalog::TYPE['SXQYHMD'] => '失信企业黑名单',
@@ -58,6 +58,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         IResourceCatalog::TYPE['T_HTLX_HTLXXX'] => '合同履行信息',
         IResourceCatalog::TYPE['XZJFXX'] => '行政给付信息',
+        IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
+        IResourceCatalog::TYPE['TB_ZGF_SXBZHRMD'] => '失信被执行人',
         //@position
     );
 }

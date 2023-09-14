@@ -10,7 +10,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QIYEJBXX' => 3,
         'HRBXX' => 4,
         'ZFCGDLJGXX' => 5,
-        'AJNSRXX' => 6,
+        // 'AJNSRXX' => 6,
         'QYDSXZCFXX' => 7,
         'YSCRJZJJJZGRDXX' => 8,
         'SFJDJGCYRYZGXX' => 9,
@@ -24,7 +24,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'MBFQYML' => 17,
         'SHTTDJXX' => 18,
         'SXBZXJGXX' => 19,
-        'SXBZXRMD' => 20,
+        // 'SXBZXRMD' => 20,
         'YZTQSBXXHMD' => 21,
         'JGRYXX' => 22,
         'SXQYHMD' => 23,
@@ -57,7 +57,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XZQZXX'=>52,
         'T_HTLX_HTLXXX'=>53,
         'XZJFXX'=>54,
-        //@position_type_55
+        'AJNSRXX'=>55,
+        'TB_ZGF_SXBZHRMD'=>56,
+        //@position_type_57
         'TEST' => 500
     );
 
@@ -123,8 +125,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZQZXX'],
         ),
         IUserGroup::ID['FY'] => array(
+            self::TYPE['TB_ZGF_SXBZHRMD'],
             self::TYPE['SXBZXJGXX'],
-            self::TYPE['SXBZXRMD'],
+            // self::TYPE['SXBZXRMD'],
             self::TYPE['XSPJXX'],
             self::TYPE['XZQZXX'],
         ),
@@ -136,6 +139,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         ),
         IUserGroup::ID['SHUIWJ'] => array(
             self::TYPE['AJNSRXX'],
+            // self::TYPE['AJNSRXX'],
             self::TYPE['QYDSXZCFXX'],
             self::TYPE['QYGSZXXX'],
             self::TYPE['XZQZXX'],
